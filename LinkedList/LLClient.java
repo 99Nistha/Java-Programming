@@ -32,6 +32,6 @@ public class LLClient {
         ll.display();
         System.out.println("mid value: " +ll.mid());
         ll.display();
-        System.out.println("2nd value from last: " +ll.KthNode(0));
+        System.out.println("2nd value from last: " +ll.KthNode(2));
     }
 }
